@@ -39,7 +39,7 @@ Sentiment analysis classifies text as **positive**, **negative**, or **neutral**
 | BERT                    |            88.00  |    87.91    |
 | DistilBERT              |            88.63  |    88.48    |
 | RoBERTa                 |            89.88  |    89.99    |
-
+https://github.com/NitinPandey12465/application-based-sentiment-project-/blob/main/download.png
 **Insight:** Transformer models (RoBERTa, DistilBERT, BERT) outperform traditional ML and LSTM on this task. RoBERTa achieves the best balance of accuracy and F1-score.
 
 ---
