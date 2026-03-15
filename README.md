@@ -4,7 +4,7 @@ used dataset like imdb rotten tomatotes
 
 **Sentiment Shift Across Domains: Application of Traditional, Deep Learning, and Transformer Models**
 
-This repository contains code and results for a comparative study of sentiment classification models across multiple Twitter-based domains (political, healthcare, general). The goal is to evaluate model performance in practical application settings and compare traditional machine learning, deep learning, and transformer-based approaches.
+This repository contains code and results for a comparative study of sentiment classification models across multiple Twitter-based domains in which explained about the data sets and the  use of many models also (political, healthcare, general). The goal is to evaluate model performance in practical application settings and compare traditional machine learning, deep learning, and transformer-based approaches.
 
 ---
 
