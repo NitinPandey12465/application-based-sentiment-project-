@@ -12,6 +12,14 @@ This repository contains code and results for a comparative study of sentiment c
 
 Sentiment analysis classifies text as **positive**, **negative**, or **neutral** and is widely used in social media monitoring, customer feedback analysis, healthcare opinion mining, and political trend analysis. This project benchmarks a range of models to see which approaches perform best in real-world scenarios.
 
+**Models included:**
+- Logistic Regression (LR)  
+- Support Vector Machine (SVM)  
+- Random Forest (RF)  
+- LSTM  
+- BERT  
+- DistilBERT  
+- RoBERTa
 
 
 **Datasets:**  
